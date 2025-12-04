@@ -13,6 +13,18 @@ Build a model that estimates the rental price of a property from its features (e
 - **Regression** (target is a numeric price)
 
 ---
+
+## 2. Dataset
+
+For this project I use the **UK Rental Properties Dataset** from Kaggle:
+
+- Title: **UK Apartments Dataset (UK Rental Properties Dataset)**
+- Source: [Kaggle – UK Rental Properties Dataset](https://www.kaggle.com/datasets/georgejnr/uk-rental-properties-dataset)
+- Type: tabular data (CSV)
+
+---
+
+
 Planned structure:
 
 ```text
